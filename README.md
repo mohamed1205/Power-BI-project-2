@@ -1,8 +1,7 @@
 # Power-BI-project-2
 Use Power BI to clean and explore data with visualizations.
 
-##Project: Data professional survey breakdown
-Tool: Power BI
+Project: Data professional survey breakdown
 
 I go in several steps to obtain the answer that I need
 
@@ -20,4 +19,6 @@ I go in several steps to obtain the answer that I need
 - Difficulty breaking into data.
 
 4- Dashboard:
-[Dashboard 2.pdf](https://github.com/mohamed1205/Power-BI-project-2/files/11128082/Dashboard.2.pdf)
+
+
+[Dashboard 2.pdf](https://github.com/mohamed1205/Power-BI-project-2/files/11128085/Dashboard.2.pdf)
