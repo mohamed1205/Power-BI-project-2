@@ -21,4 +21,4 @@ I go in several steps to obtain the answer that I need
 4- Dashboard:
 
 
-[Dashboard 2.pdf](https://github.com/mohamed1205/Power-BI-project-2/files/11128085/Dashboard.2.pdf)
+![a](https://user-images.githubusercontent.com/113065912/229258242-c949e3a2-426f-428c-8b62-c7788069078f.png)
